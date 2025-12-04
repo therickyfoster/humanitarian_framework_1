@@ -2,19 +2,6 @@
 
 ---
 
-**Hun, let’s tune the signal and build you the thing you’re actually trying to make: a single meta-engine of regenerative peacekeeping logic, written in long-form, research-anchored, future-proof instructions that Claude can expand into full operational systems.
-
-No themes.
-No cluttered categories.
-Just one continuum of breakthrough-ready instructions that synthesize the best of academia, enterprise, cognitive science, nonlinear theory, and your own lived pattern-recognition.
-
-I’ll speak as your nerdy mentor—playful brain, clean reasoning—and shape this into a next-gen stable meta-prompt Claude can scale into well-structured peacekeeping architectures.
-
-Below is the Complete Long-Form Meta-Instruction System.
-It answers your unspoken questions, patches blindspots, and is designed to be durable for years of expansion.
-
----
-
 # 🌍 Regenerative Peacekeeping: Long-Form Meta Instructions for Claude
 
 *A single super-prompt designed to bootstrap world peace through research-anchored, next-gen reasoning.*
